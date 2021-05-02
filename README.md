@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is **Haein Ryoo** currently learning A-levels in D'overbroeck's Oxford 
-[![](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="https://www.instagram.com/haaein_00/")](https://www.instagram.com/haaein_00/)
+</br>[![](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="https://www.instagram.com/haaein_00/")](https://www.instagram.com/haaein_00/)
 
 [![haein's GitHub stats](https://github-readme-stats.vercel.app/api?username=haein120)](https://github.com/anuraghazra/github-readme-stats)
 <!--
