@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is **Haein Ryoo** currently learning A-levels in D'overbroeck's Oxford 
 <!--
 **haein120/haein120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
