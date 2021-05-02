@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is **Haein Ryoo** currently learning A-levels in D'overbroeck's Oxford 
+</br>[![](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="https://www.instagram.com/haaein_00/")](https://www.instagram.com/haaein_00/)
 <!--
 **haein120/haein120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
